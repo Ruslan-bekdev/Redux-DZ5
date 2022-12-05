@@ -1,0 +1,5 @@
+export const types = {
+  USERS_INFO: 'USERS_INFO',
+  SHOW_USER_INFO: 'SHOW_USER_INFO',
+  REGISTER_USER: 'REGISTER_USER',
+}
